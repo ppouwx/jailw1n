@@ -9,7 +9,7 @@ bakew1n runs bakera1n jailbreak for your idevice, which running ios 15.x-17.x be
 
 - checkm8 device (A8(X)-A11).
   - On A11 devices, you must disable password while you in jailbroken state, and if you on iOS 16, backup your device via iTunes and restore it via settings app and **don't set password again**!
-- iTunes installed on your pc.
+- iTunes 12.6.5 installed on your pc.
 - Intel processor.
   - AMD processor have an issue [with (likely) their USB controllers] that causes them to have a very low success rate with checkm8. But you need to try, maybe you'll be lucky :).
 
