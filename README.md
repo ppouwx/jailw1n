@@ -1,3 +1,4 @@
+# The project is frozen until I get cold from the compilation that doesn't work.
 ## Info
 bakew1n runs bakera1n jailbreak for your idevice, which running ios 15.x-17.x beta 1 on Windows machine.
 
