@@ -13,6 +13,7 @@ bakew1n runs bakera1n jailbreak for your idevice, which running ios 15.x-17.x be
 - Intel processor.
   - AMD processor have an issue [with (likely) their USB controllers] that causes them to have a very low success rate with checkm8. But you need to try, maybe you'll be lucky :).
 - Zadig driver tool.
+- MSYS2.
 
 ## Warnings!
 
