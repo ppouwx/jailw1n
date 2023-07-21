@@ -1,6 +1,6 @@
-## bakew1n install tutorial.
+## jailw1n install tutorial.
 
-Welcome, to bakew1n install tutorial! This tutorial helps you to make your jailbreak process more stable.
+Welcome, to jailw1n install tutorial! This tutorial helps you to make your jailbreak process more stable.
 
 ## Requirements.
 
@@ -39,7 +39,7 @@ Lets start with basic.
 
 ## Step 3. Running jailbreak.
 
-1. Open bakew1n bat script.
+1. Open jailw1n bat script.
 2. Press any button to start jailbreak.
 3. Wait until it will complete.
 4. When your device will boot, open "loader" app, and install Sileo.
@@ -52,6 +52,6 @@ Lets start with basic.
 
 ## Step 4. (optional) Removing jailbreak.
 
-1. Go to "loader" app.
+1. Go to "loader/palera1n" app.
 2. Press "Remove jailbreak".
 3. Reboot device.
