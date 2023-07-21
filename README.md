@@ -1,8 +1,8 @@
 ## Info
-bakew1n runs bakera1n jailbreak for your idevice, which running ios 15.x-17.x beta 1 on Windows machine.
+jailw1n runs jailbreak for your idevice, which running ios 15.x-16.x on Windows machine.
 
 - This tool easily running on Windows (thanks to [mineek](github.com/mineek) for [openra1n](github.com/mineek/openra1n) code) without any LiveUSB, Linux and more, more...
-- This tool running [bakera1n](github.com/dora2-iOS/bakera1n), which created by [dora2ios](github.com/dora2-iOS).
+- This tool running [bakera1n](github.com/dora2-iOS/bakera1n), which created by [dora2ios](github.com/dora2-iOS), or palera1n which created by [palera1n team](https://github.com/palera1n/palera1n).
 - This tool will create ONLY rootless jailbreak.
 
 ## Requirements
@@ -22,6 +22,6 @@ I'm not responsible for bricking device, data loss, broken alarms and etc. If yo
 ## To do list
 
 - Rootful jailbreak via bakera1n.
-- Rootful/rootless jailbreak palera1n.
+- Rootful/~rootless jailbreak palera1n.~
 - GUI.
 - Auto driver manipulation.
