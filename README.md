@@ -1,7 +1,7 @@
 <center>
-  <a href="#"><img src="![image](https://github.com/ppouwx/jailw1n/assets/129798200/638c1e72-7ec2-4d19-8385-09610f0c4aeb)
-" alt="Logo"></a>
+  <a href="#"><img src="https://cdn.discordapp.com/attachments/1130526907092439093/1188142496224661534/-4.jpg?ex=659972ed&is=6586fded&hm=7faf47fd6fff3bf7c9694a4c9684d2b47ec4cd505cc612a3b3a47867cce2c6c7&" alt="Logo"></a>
 </center>
+
 ## Info
 jailw1n runs jailbreak for your idevice, which running ios 15.x-16.x on Windows machine.
 
