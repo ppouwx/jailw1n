@@ -11,6 +11,8 @@
 
 I'm not responsible for bricking device, data loss, broken alarms and etc. If you downloading this program, **YOU** accepting all the risk, and **YOU** taking all the responsibilty for probable harming device.
 
+Always refer to [wiki](https://github.com/ppouwx/jailw1n/blob/main/wiki.md) to make you jailbreak more stable.
+
 ## Info
 jailw1n runs jailbreak for your idevice, which running ios 15.x-17.x on Windows machine.
 
