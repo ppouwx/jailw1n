@@ -1,5 +1,5 @@
 <h2 align="center">
-    <a href="https://github.com/ppouwx/jailw1n/blob/main/tutorial.md#step-4-optional-installing-meowbrek">jailw1n → meowbrek</a> 
+    <a href="https://github.com/ppouwx/jailw1n/blob/main/wiki.md#installing-meowbrek">jailw1n → meowbrek</a> 
 </h2>
 
 
