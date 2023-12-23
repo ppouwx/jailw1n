@@ -1,5 +1,5 @@
 <h2 align="center">
-    <a href="https://cdn.nickchan.lol/palera1n/c-rewrite/releases/v2.0.0-beta.7/palera1n.1.html">jailw1n → meowbrek</a> 
+    <a href="https://github.com/ppouwx/jailw1n/blob/main/tutorial.md#step-4-optional-installing-meowbrek">jailw1n → meowbrek</a> 
 </h2>
 
 
