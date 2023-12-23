@@ -50,7 +50,19 @@ Lets start with basic.
 - If script ends on MSYS2 error. You didn't install MSYS2 or install to another disk, replace it to disk C:\.
 - If there is error with jailbreak, go to [Issue](github.com/ppouwx/bakew1n/issues) tab, and open an Issue, and i will try to help you. (Don't forget about log.)
 
-## Step 4. (optional) Removing jailbreak.
+## Step 4. (optional) Installing meowbrek.
+### If you don't want rejail via PC, use meowbrek.
+### This will work if you on iOS 15.0-15.7.6!
+1. Install jailw1n and stay on QR-Code page.
+2. Bootstrap you device.
+3. Install "TrollHelper" and "TrollStore".
+4. Scan QR-Code in camera, and download meowbrek.
+5. Install meowbrek via TrollStore.
+6. Reboot your iDevice.
+7. Open meowbrek and wait one minute until press "Jailbreak".
+8. Press "Jailbreak" and wait.
+
+## Removing jailbreak.
 
 1. Go to "loader/palera1n" app.
 2. Press "Remove jailbreak".
