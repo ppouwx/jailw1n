@@ -66,6 +66,12 @@ Lets start with basic.
 
 # Removing jailbreak.
 
-1. Go to "loader/palera1n" app.
-2. Press "Remove jailbreak".
+1. Go to "palera1n" app.
+2. Press "Revert Install".
 3. Reboot device.
+## If you using meowbrek, use this steps. (TrollStore will be still installed.)
+1. Reboot device.
+2. Run jailbreak via "jailw1n".
+3. Open "palera1n" app.
+4. Press "Revert Install".
+5. Reboot device.
