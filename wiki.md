@@ -20,7 +20,7 @@ Lets start with basic.
 1. Install or downgrade iTunes to version 12.6.5.
 2. Install Zadig driver tool.
 3. Put your iDevice in DFU mode.
-4. Download bakew1n from GitHub.
+4. Download jailw1n from GitHub.
 
 ### Errors.
 
@@ -40,16 +40,16 @@ Lets start with basic.
 
 ## Step 3. Running jailbreak.
 
-1. Open jailw1n bat script.
-2. Press any button to start jailbreak.
+1. Open jailw1n app.
+2. Press start buttom.
 3. Wait until it will complete.
-4. When your device will boot, open "loader" app, and install Sileo.
+4. When your device will boot, open "palera1n" app, and install package manager.
 
 ### Errors.
 
 - If script ends on iTunes error. You didn't install iTunes or install to another disk, replace it to disk C:\.
-- If script ends on MSYS2 error. You didn't install MSYS2 or install to another disk, replace it to disk C:\.
-- If there is error with jailbreak, go to [Issue](github.com/ppouwx/bakew1n/issues) tab, and open an Issue, and i will try to help you. (Don't forget about log.)
+- If app ends on MSYS2 error. You didn't install MSYS2 or install to another disk, replace it to disk C:\.
+- If there is error with jailbreak, go to Discord server(not availible now), and open an Issue in channel "Issues", and i will try to help you. (Don't forget about log.)
 
 # Installing meowbrek.
 ## If you don't want rejail via PC, use meowbrek.
