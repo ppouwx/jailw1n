@@ -1,13 +1,11 @@
 <h2 align="center">
     <a href="https://github.com/ppouwx/jailw1n/blob/main/wiki.md#installing-meowbrek">jailw1n → meowbrek</a> 
 </h2>
-
 <p align="center">
     <a href="https://github.com/ppouwx/jailw1n/blob/main/wiki.md">Wiki</a> •
-	<a href="https://github.com/">Discord</a>
 </p>
 
-## outdated.
+# outdated
 
 ## wen eta.
 You can run this jailbreak manually via console commands. I want to release a GUI version, where you need prees one button. Idk how long i will write a GUI so wait please!
